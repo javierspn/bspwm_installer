@@ -1,12 +1,3 @@
-check_primary_monitor () {
-  local monitor_name=$(xrandr -q | grep -e " connected [primary]" )
-  if [[ -z "$monitor_name" ]]; then
-    return 0
-  else
-    return 1
-  fi
-}
-
 get_primary_monitor_name () {
     local xmain_monitor_name
     if ! check_primary_monitor; then
@@ -35,20 +26,34 @@ get_monitor_resolution () {
 echo $resolution
 }
 
+json_config_dir="$HOME/Documents/dev/eye/bspwm_installer/wm_data/base_files"
+json_monitor_schema=$(cat "$json_config_dir/monitors.json")
+
 get_monitor_specs () {
   local xrandr_output=()
-  local xrandr_line
-  local xmonitor_specs
+  local xrline
   local xmonitor_matrix=()
+  local xmline
+  local xmonitor_specs
 
-  if check_primary_monitor; then
-    readarray -t xrandr_output < <(xrandr -q | grep " connected [^primary]")
+  readarray -t xrandr_output < <(xrandr -q | grep " connected [^primary]")
 
-    for xrandr_line in "${xrandr_output[@]}"; do
-      xmonitor_specs=$(echo "$xrandr_line" | awk '{match($0, /^([^ ]+) ([0-9]+)x/); print $1, $2}')
-      echo "$xmonitor_specs"
+    for xrline in "${xrandr_output[@]}"; do
+      xmonitor_specs=$(echo "$xrline" | awk '{print $1; match($3,/^[[:digit:]]+x[[:digit:]]+/); print substr($3,RSTART,RLENGTH)}')
       xmonitor_matrix+=("$xmonitor_specs")
     done
-  fi
-echo "${xmonitor_matrix[@]}"
+ 
+ echo ${xmonitor_matrix[@]}
+
 }
+
+check_primary_monitor () {
+  local monitor_name=$(xrandr -q | grep -e " connected [primary]" )
+  if [[ -z "$monitor_name" ]]; then
+    return 0
+  else
+    return 1
+  fi
+}
+
+set
