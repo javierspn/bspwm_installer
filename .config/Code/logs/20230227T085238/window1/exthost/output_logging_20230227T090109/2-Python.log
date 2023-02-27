@@ -1,8 +1,0 @@
-LSP Notebooks experiment is enabled
-LSP Notebooks interactive window support is enabled
-Python interpreter path: /bin/python3
-Starting Pylance language server.
-[ERROR 2023-1-27 9:1:10.347]: sendStartupTelemetry() failed. [TypeError: Cannot read properties of undefined (reading 'uri')
-	at m (/home/javier/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:681157)
-	at t.sendStartupTelemetry (/home/javier/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:682144)]
-> conda info --json
