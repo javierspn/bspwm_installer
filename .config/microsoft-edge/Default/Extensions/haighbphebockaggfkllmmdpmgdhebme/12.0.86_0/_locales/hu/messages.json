@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Az Ön nyomkövetője az Alíexpress-hez"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - árkövető az Alíexpresshez"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Kép keresése az AliPrice-on"
+   },
+   "context_menus_google_translate": {
+      "message": "Google Fordító"
+   },
+   "context_menus_search_by_image": {
+      "message": "Kép szerint kereshet a $storeName$ oldalon",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Rögzítés a $storeName$ helyre",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Kép keresése az AliPrice-on"
+   },
+   "context_menus_translator": {
+      "message": "Rögzítse a fordításhoz"
+   }
+}

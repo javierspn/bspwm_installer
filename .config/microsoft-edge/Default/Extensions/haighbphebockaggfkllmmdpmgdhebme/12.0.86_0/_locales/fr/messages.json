@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Votre outil de suivi des prix pour Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - suivi des prix pour Alíexpress"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Rechercher une image avec AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Google Traduction"
+   },
+   "context_menus_search_by_image": {
+      "message": "Recherche par image sur $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Capture vers $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Rechercher une image avec AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Capturer pour traduire"
+   }
+}

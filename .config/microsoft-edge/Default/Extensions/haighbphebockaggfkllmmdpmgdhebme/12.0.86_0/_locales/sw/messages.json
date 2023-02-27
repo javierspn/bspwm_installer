@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Mfuatiliaji wako wa bei ya Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - tracker ya bei ya Alíexpress"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Tafuta Picha kwenye AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Tafsiri ya Google"
+   },
+   "context_menus_search_by_image": {
+      "message": "Tafuta kwa picha kwenye $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Nasa kwa $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Tafuta Picha kwenye AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Piga picha ili kutafsiri"
+   }
+}

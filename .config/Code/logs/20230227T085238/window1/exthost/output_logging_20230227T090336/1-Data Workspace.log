@@ -1,0 +1,19 @@
+[Info - 2023-01-27 08:03:37.593] Starting Data Workspace activate()
+[Info - 2023-01-27 08:03:37.593] Setting azdataAvailable took 0ms
+[Info - 2023-01-27 08:03:37.593] Calling getProjectsInWorkspace() from WorkspaceService constructor
+[Info - 2023-01-27 08:03:37.593] Getting projects in workspace
+[Info - 2023-01-27 08:03:37.595] WorkspaceService constructor took 2ms
+[Info - 2023-01-27 08:03:37.595] WorkspaceTreeDataProvider constructor took 0ms
+[Info - 2023-01-27 08:03:37.595] DataWorkspaceExtension constructor took 0ms
+[Info - 2023-01-27 08:03:37.596] registerTreeDataProvider took 1ms
+[Info - 2023-01-27 08:03:37.596] Checking 112 extensions to see if there is a project provider is available
+[Info - 2023-01-27 08:03:37.596] Project provider found. Total time = 0ms
+[Info - 2023-01-27 08:03:37.597] setProjectProviderContextValue took 1ms
+[Info - 2023-01-27 08:03:37.597] Registering commands took 0ms
+[Info - 2023-01-27 08:03:37.598] IconPathHelper took 1ms
+[Info - 2023-01-27 08:03:37.598] Finished activating Data Workspace extension. Total time = 5ms
+[Info - 2023-01-27 08:03:39.235] Finished looking for projects in workspace. Opened: 0. Excluded: 0. Total time = 1642ms
+[Info - 2023-01-27 08:03:47.908] Refreshing projects tree
+[Info - 2023-01-27 08:03:47.908] Getting projects in workspace
+[Error - 2023-01-27 08:03:47.960] Failed to load the project provider extension 'ms-mssql.sql-database-projects-vscode'. Error message: Canceled
+[Error - 2023-01-27 08:03:47.960] Failed to load the project provider extension 'ms-mssql.sql-database-projects-vscode'. Error message: Canceled

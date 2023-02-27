@@ -1,0 +1,196 @@
+2023-02-27 08:49:54.926 [info] Started initializing default profile extensions in extensions installation folder. file:///home/javier/.vscode/extensions
+2023-02-27 08:49:55.298 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/javier/.vscode/extensions Unable to create file 'vscode-userdata:/home/javier/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-02-27 08:49:55.298 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/javier/.vscode/extensions
+2023-02-27 08:49:55.612 [info] Starting worker process with pid 5093 (type: fileWatcher, window: 1).
+2023-02-27 08:50:23.780 [info] Getting Manifest... mathematic.vscode-pdf
+2023-02-27 08:50:24.599 [info] Installing extension: mathematic.vscode-pdf
+2023-02-27 08:50:24.599 [info] Installing the extension without checking dependencies and pack mathematic.vscode-pdf
+2023-02-27 08:50:29.668 [info] Extension signature verification: mathematic.vscode-pdf. Verification status: Verified.
+2023-02-27 08:50:30.096 [info] Extracted extension to /home/javier/.vscode/extensions/.454b8449-b577-445e-a140-eaa97852803f: mathematic.vscode-pdf
+2023-02-27 08:50:30.107 [info] Renamed to /home/javier/.vscode/extensions/mathematic.vscode-pdf-0.0.6
+2023-02-27 08:50:30.110 [info] Extracting completed. mathematic.vscode-pdf
+2023-02-27 08:50:30.128 [info] Extension installed successfully: mathematic.vscode-pdf
+2023-02-27 08:50:30.129 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-02-27 08:50:30.290 [info] Installing extension: ms-azuretools.vscode-docker
+2023-02-27 08:50:30.290 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+2023-02-27 08:50:32.145 [info] Extension signature verification: ms-azuretools.vscode-docker. Verification status: Verified.
+2023-02-27 08:50:32.381 [info] Extracted extension to /home/javier/.vscode/extensions/.d0ed7d12-d6bf-48df-af87-07e79d2bd193: ms-azuretools.vscode-docker
+2023-02-27 08:50:32.397 [info] Renamed to /home/javier/.vscode/extensions/ms-azuretools.vscode-docker-1.24.0
+2023-02-27 08:50:32.404 [info] Extracting completed. ms-azuretools.vscode-docker
+2023-02-27 08:50:32.422 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-02-27 08:50:32.424 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-02-27 08:50:33.116 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-02-27 08:50:33.116 [info] Installing the extension without checking dependencies and pack ms-vsliveshare.vsliveshare
+2023-02-27 08:50:38.778 [info] Extension signature verification: ms-vsliveshare.vsliveshare. Verification status: Verified.
+2023-02-27 08:50:40.491 [info] Extracted extension to /home/javier/.vscode/extensions/.0f821eae-ab41-42a1-a3d5-368c0d747776: ms-vsliveshare.vsliveshare
+2023-02-27 08:50:40.504 [info] Renamed to /home/javier/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5832
+2023-02-27 08:50:40.507 [info] Extracting completed. ms-vsliveshare.vsliveshare
+2023-02-27 08:50:40.527 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-02-27 08:50:40.528 [info] Getting Manifest... ms-vscode-remote.vscode-remote-extensionpack
+2023-02-27 08:50:41.135 [info] Installing extension: ms-vscode-remote.vscode-remote-extensionpack
+2023-02-27 08:50:41.135 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.vscode-remote-extensionpack
+2023-02-27 08:50:43.739 [info] Extension signature verification: ms-vscode-remote.vscode-remote-extensionpack. Verification status: Verified.
+2023-02-27 08:50:43.784 [info] Extracted extension to /home/javier/.vscode/extensions/.726f64df-09f5-403e-b227-e0ab91532b92: ms-vscode-remote.vscode-remote-extensionpack
+2023-02-27 08:50:43.790 [info] Renamed to /home/javier/.vscode/extensions/ms-vscode-remote.vscode-remote-extensionpack-0.24.0
+2023-02-27 08:50:43.792 [info] Extracting completed. ms-vscode-remote.vscode-remote-extensionpack
+2023-02-27 08:50:43.807 [info] Extension installed successfully: ms-vscode-remote.vscode-remote-extensionpack
+2023-02-27 08:50:43.809 [info] Getting Manifest... ms-kubernetes-tools.vscode-kubernetes-tools
+2023-02-27 08:50:44.434 [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools
+2023-02-27 08:50:44.434 [info] Installing the extension without checking dependencies and pack ms-kubernetes-tools.vscode-kubernetes-tools
+2023-02-27 08:50:46.849 [info] Extension signature verification: ms-kubernetes-tools.vscode-kubernetes-tools. Verification status: Verified.
+2023-02-27 08:50:47.320 [info] Extracted extension to /home/javier/.vscode/extensions/.bcc7c2c1-8b28-4d38-9eb5-b8423c41be80: ms-kubernetes-tools.vscode-kubernetes-tools
+2023-02-27 08:50:47.335 [info] Renamed to /home/javier/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.11
+2023-02-27 08:50:47.338 [info] Extracting completed. ms-kubernetes-tools.vscode-kubernetes-tools
+2023-02-27 08:50:47.355 [info] Extension installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools
+2023-02-27 08:50:47.356 [info] Getting Manifest... ms-mssql.mssql
+2023-02-27 08:50:47.969 [info] Installing extension: ms-mssql.mssql
+2023-02-27 08:50:47.973 [info] Installing the extension without checking dependencies and pack ms-mssql.mssql
+2023-02-27 08:50:56.613 [info] Extension signature verification: ms-mssql.mssql. Verification status: Verified.
+2023-02-27 08:51:00.513 [info] Extracted extension to /home/javier/.vscode/extensions/.100b4328-e9f4-4367-b819-fbd66d09ec39: ms-mssql.mssql
+2023-02-27 08:51:00.543 [info] Renamed to /home/javier/.vscode/extensions/ms-mssql.mssql-1.17.1
+2023-02-27 08:51:00.551 [info] Extracting completed. ms-mssql.mssql
+2023-02-27 08:51:00.570 [info] Extension installed successfully: ms-mssql.mssql
+2023-02-27 08:51:00.577 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-02-27 08:51:01.191 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-02-27 08:51:01.194 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2023-02-27 08:51:03.473 [info] Extension signature verification: ms-toolsai.jupyter-keymap. Verification status: Verified.
+2023-02-27 08:51:03.481 [info] Extracted extension to /home/javier/.vscode/extensions/.980f2fa5-19a5-46d9-ac34-7ea876dc79a8: ms-toolsai.jupyter-keymap
+2023-02-27 08:51:03.492 [info] Renamed to /home/javier/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+2023-02-27 08:51:03.494 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-02-27 08:51:03.508 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-02-27 08:51:03.513 [info] Getting Manifest... ms-mssql.sql-database-projects-vscode
+2023-02-27 08:51:04.108 [info] Installing extension: ms-mssql.sql-database-projects-vscode
+2023-02-27 08:51:04.108 [info] Installing the extension without checking dependencies and pack ms-mssql.sql-database-projects-vscode
+2023-02-27 08:51:06.533 [info] Extension signature verification: ms-mssql.sql-database-projects-vscode. Verification status: Verified.
+2023-02-27 08:51:06.872 [info] Extracted extension to /home/javier/.vscode/extensions/.d01d39ed-c398-46f7-8c6a-330450ce9f17: ms-mssql.sql-database-projects-vscode
+2023-02-27 08:51:06.883 [info] Renamed to /home/javier/.vscode/extensions/ms-mssql.sql-database-projects-vscode-0.21.0
+2023-02-27 08:51:06.885 [info] Extracting completed. ms-mssql.sql-database-projects-vscode
+2023-02-27 08:51:06.901 [info] Extension installed successfully: ms-mssql.sql-database-projects-vscode
+2023-02-27 08:51:06.903 [info] Getting Manifest... ms-mssql.data-workspace-vscode
+2023-02-27 08:51:07.470 [info] Installing extension: ms-mssql.data-workspace-vscode
+2023-02-27 08:51:07.472 [info] Installing the extension without checking dependencies and pack ms-mssql.data-workspace-vscode
+2023-02-27 08:51:09.544 [info] Extension signature verification: ms-mssql.data-workspace-vscode. Verification status: Verified.
+2023-02-27 08:51:09.569 [info] Extracted extension to /home/javier/.vscode/extensions/.28575958-af70-450e-8c9c-37b13fe8a3fe: ms-mssql.data-workspace-vscode
+2023-02-27 08:51:09.577 [info] Renamed to /home/javier/.vscode/extensions/ms-mssql.data-workspace-vscode-0.4.0
+2023-02-27 08:51:09.579 [info] Extracting completed. ms-mssql.data-workspace-vscode
+2023-02-27 08:51:09.594 [info] Extension installed successfully: ms-mssql.data-workspace-vscode
+2023-02-27 08:51:09.595 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2023-02-27 08:51:10.167 [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+2023-02-27 08:51:10.172 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2023-02-27 08:51:12.389 [info] Extension signature verification: ms-vscode-remote.remote-ssh-edit. Verification status: Verified.
+2023-02-27 08:51:12.552 [info] Extracted extension to /home/javier/.vscode/extensions/.f732161e-37be-4405-b00c-29c10a01bc72: ms-vscode-remote.remote-ssh-edit
+2023-02-27 08:51:12.561 [info] Renamed to /home/javier/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.84.0
+2023-02-27 08:51:12.567 [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+2023-02-27 08:51:12.588 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+2023-02-27 08:51:12.769 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-02-27 08:51:13.328 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-02-27 08:51:13.329 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2023-02-27 08:51:15.929 [info] Extension signature verification: ms-toolsai.jupyter-renderers. Verification status: Verified.
+2023-02-27 08:51:16.308 [info] Extracted extension to /home/javier/.vscode/extensions/.24db5c92-ffd0-427f-87e1-f19bedd07274: ms-toolsai.jupyter-renderers
+2023-02-27 08:51:16.312 [info] Renamed to /home/javier/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.14
+2023-02-27 08:51:16.314 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2023-02-27 08:51:16.328 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-02-27 08:51:16.330 [info] Getting Manifest... ms-mssql.sql-bindings-vscode
+2023-02-27 08:51:16.905 [info] Installing extension: ms-mssql.sql-bindings-vscode
+2023-02-27 08:51:16.905 [info] Installing the extension without checking dependencies and pack ms-mssql.sql-bindings-vscode
+2023-02-27 08:51:18.993 [info] Extension signature verification: ms-mssql.sql-bindings-vscode. Verification status: Verified.
+2023-02-27 08:51:19.056 [info] Extracted extension to /home/javier/.vscode/extensions/.d768d915-3a41-4163-be50-0291faebd346: ms-mssql.sql-bindings-vscode
+2023-02-27 08:51:19.063 [info] Renamed to /home/javier/.vscode/extensions/ms-mssql.sql-bindings-vscode-0.3.0
+2023-02-27 08:51:19.065 [info] Extracting completed. ms-mssql.sql-bindings-vscode
+2023-02-27 08:51:19.080 [info] Extension installed successfully: ms-mssql.sql-bindings-vscode
+2023-02-27 08:51:19.082 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-02-27 08:51:19.642 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-02-27 08:51:19.642 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2023-02-27 08:51:21.676 [info] Extension signature verification: ms-toolsai.vscode-jupyter-slideshow. Verification status: Verified.
+2023-02-27 08:51:21.765 [info] Extracted extension to /home/javier/.vscode/extensions/.44e1c1e2-6dc7-43bf-94dc-7b52c70f78a3: ms-toolsai.vscode-jupyter-slideshow
+2023-02-27 08:51:21.777 [info] Renamed to /home/javier/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-02-27 08:51:21.782 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2023-02-27 08:51:21.807 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-02-27 08:51:21.809 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-02-27 08:51:22.404 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-02-27 08:51:22.405 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2023-02-27 08:51:24.732 [info] Extension signature verification: ms-toolsai.vscode-jupyter-cell-tags. Verification status: Verified.
+2023-02-27 08:51:24.782 [info] Extracted extension to /home/javier/.vscode/extensions/.a83b8778-5318-4633-81b1-318cfa1bf635: ms-toolsai.vscode-jupyter-cell-tags
+2023-02-27 08:51:24.789 [info] Renamed to /home/javier/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2023-02-27 08:51:24.793 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-02-27 08:51:24.809 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-02-27 08:51:24.810 [info] Getting Manifest... ms-vscode.remote-explorer
+2023-02-27 08:51:25.385 [info] Installing extension: ms-vscode.remote-explorer
+2023-02-27 08:51:25.385 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-explorer
+2023-02-27 08:51:27.445 [info] Extension signature verification: ms-vscode.remote-explorer. Verification status: Verified.
+2023-02-27 08:51:27.506 [info] Extracted extension to /home/javier/.vscode/extensions/.3a7ac003-cafa-46e1-abbe-08e85536d27b: ms-vscode.remote-explorer
+2023-02-27 08:51:27.515 [info] Renamed to /home/javier/.vscode/extensions/ms-vscode.remote-explorer-0.2.0
+2023-02-27 08:51:27.517 [info] Extracting completed. ms-vscode.remote-explorer
+2023-02-27 08:51:27.532 [info] Extension installed successfully: ms-vscode.remote-explorer
+2023-02-27 08:51:27.539 [info] Getting Manifest... ms-python.isort
+2023-02-27 08:51:28.118 [info] Installing extension: ms-python.isort
+2023-02-27 08:51:28.118 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2023-02-27 08:51:29.638 [info] Extension signature verification: ms-python.isort. Verification status: Verified.
+2023-02-27 08:51:30.289 [info] Extracted extension to /home/javier/.vscode/extensions/.91dc301f-c18b-4f5e-99a1-a6977035486a: ms-python.isort
+2023-02-27 08:51:30.305 [info] Renamed to /home/javier/.vscode/extensions/ms-python.isort-2022.8.0
+2023-02-27 08:51:30.311 [info] Extracting completed. ms-python.isort
+2023-02-27 08:51:30.330 [info] Extension installed successfully: ms-python.isort
+2023-02-27 08:51:30.331 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2023-02-27 08:51:30.899 [info] Installing extension: ms-vscode-remote.remote-ssh
+2023-02-27 08:51:30.899 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2023-02-27 08:51:33.261 [info] Extension signature verification: ms-vscode-remote.remote-ssh. Verification status: Verified.
+2023-02-27 08:51:33.715 [info] Extracted extension to /home/javier/.vscode/extensions/.8a971eb8-898d-48d2-ba7b-89da5887d9ff: ms-vscode-remote.remote-ssh
+2023-02-27 08:51:33.726 [info] Renamed to /home/javier/.vscode/extensions/ms-vscode-remote.remote-ssh-0.96.0
+2023-02-27 08:51:33.732 [info] Extracting completed. ms-vscode-remote.remote-ssh
+2023-02-27 08:51:33.745 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2023-02-27 08:51:33.746 [info] Getting Manifest... redhat.vscode-yaml
+2023-02-27 08:51:34.374 [info] Installing extension: redhat.vscode-yaml
+2023-02-27 08:51:34.374 [info] Installing the extension without checking dependencies and pack redhat.vscode-yaml
+2023-02-27 08:51:36.678 [info] Extension signature verification: redhat.vscode-yaml. Verification status: Verified.
+2023-02-27 08:51:36.839 [info] Extracted extension to /home/javier/.vscode/extensions/.df4eec0b-7615-4bb1-9e87-35bfdd413df4: redhat.vscode-yaml
+2023-02-27 08:51:36.847 [info] Renamed to /home/javier/.vscode/extensions/redhat.vscode-yaml-1.11.0
+2023-02-27 08:51:36.853 [info] Extracting completed. redhat.vscode-yaml
+2023-02-27 08:51:36.865 [info] Extension installed successfully: redhat.vscode-yaml
+2023-02-27 08:51:36.867 [info] Getting Manifest... ms-python.vscode-pylance
+2023-02-27 08:51:37.040 [info] Installing extension: ms-python.vscode-pylance
+2023-02-27 08:51:37.040 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-02-27 08:51:41.035 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-02-27 08:51:45.432 [info] Extracted extension to /home/javier/.vscode/extensions/.080b8983-037f-411b-bad6-ff99fe0c67e6: ms-python.vscode-pylance
+2023-02-27 08:51:45.440 [info] Renamed to /home/javier/.vscode/extensions/ms-python.vscode-pylance-2023.2.40
+2023-02-27 08:51:45.443 [info] Extracting completed. ms-python.vscode-pylance
+2023-02-27 08:51:45.456 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-02-27 08:51:45.457 [info] Getting Manifest... kubescape.kubescape
+2023-02-27 08:51:46.082 [info] Installing extension: kubescape.kubescape
+2023-02-27 08:51:46.083 [info] Installing the extension without checking dependencies and pack kubescape.kubescape
+2023-02-27 08:51:49.567 [info] Extension signature verification: kubescape.kubescape. Verification status: Verified.
+2023-02-27 08:51:51.271 [info] Extracted extension to /home/javier/.vscode/extensions/.703bcf75-aee8-4cd0-b3e2-2198f5f541d1: kubescape.kubescape
+2023-02-27 08:51:51.279 [info] Renamed to /home/javier/.vscode/extensions/kubescape.kubescape-0.3.3
+2023-02-27 08:51:51.281 [info] Extracting completed. kubescape.kubescape
+2023-02-27 08:51:51.294 [info] Extension installed successfully: kubescape.kubescape
+2023-02-27 08:51:51.487 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-02-27 08:51:52.065 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-02-27 08:51:52.065 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2023-02-27 08:51:59.775 [info] Extension signature verification: ms-vscode-remote.remote-wsl. Verification status: Verified.
+2023-02-27 08:52:00.043 [info] Extracted extension to /home/javier/.vscode/extensions/.9397a86e-690c-4edb-a32d-0a1af6c74301: ms-vscode-remote.remote-wsl
+2023-02-27 08:52:00.054 [info] Renamed to /home/javier/.vscode/extensions/ms-vscode-remote.remote-wsl-0.75.3
+2023-02-27 08:52:00.064 [info] Extracting completed. ms-vscode-remote.remote-wsl
+2023-02-27 08:52:00.079 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-02-27 08:52:00.080 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2023-02-27 08:52:00.662 [info] Installing extension: ms-vscode-remote.remote-containers
+2023-02-27 08:52:00.663 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+2023-02-27 08:52:03.154 [info] Extension signature verification: ms-vscode-remote.remote-containers. Verification status: Verified.
+2023-02-27 08:52:04.418 [info] Extracted extension to /home/javier/.vscode/extensions/.d784bbc0-fef8-4f75-90d4-37422c90171a: ms-vscode-remote.remote-containers
+2023-02-27 08:52:04.440 [info] Renamed to /home/javier/.vscode/extensions/ms-vscode-remote.remote-containers-0.275.1
+2023-02-27 08:52:04.443 [info] Extracting completed. ms-vscode-remote.remote-containers
+2023-02-27 08:52:04.462 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2023-02-27 08:52:04.466 [info] Getting Manifest... ms-python.python
+2023-02-27 08:52:04.632 [info] Installing extension: ms-python.python
+2023-02-27 08:52:04.632 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-02-27 08:52:09.249 [info] Extension signature verification: ms-python.python. Verification status: Verified.
+2023-02-27 08:52:13.458 [info] Extracted extension to /home/javier/.vscode/extensions/.54807fc1-0491-494e-9e79-ae3a904b991f: ms-python.python
+2023-02-27 08:52:13.463 [info] Renamed to /home/javier/.vscode/extensions/ms-python.python-2023.2.0
+2023-02-27 08:52:13.466 [info] Extracting completed. ms-python.python
+2023-02-27 08:52:13.484 [info] Extension installed successfully: ms-python.python
+2023-02-27 08:52:13.489 [info] Getting Manifest... ms-toolsai.jupyter
+2023-02-27 08:52:14.066 [info] Installing extension: ms-toolsai.jupyter
+2023-02-27 08:52:14.066 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2023-02-27 08:52:24.627 [info] Extension signature verification: ms-toolsai.jupyter. Verification status: Verified.
+2023-02-27 08:52:25.337 [info] Extracted extension to /home/javier/.vscode/extensions/.9baf24d8-71e7-4970-bc2b-10a8bf451c7f: ms-toolsai.jupyter
+2023-02-27 08:52:25.346 [info] Renamed to /home/javier/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206
+2023-02-27 08:52:25.379 [info] Extracting completed. ms-toolsai.jupyter
+2023-02-27 08:52:25.395 [info] Extension installed successfully: ms-toolsai.jupyter

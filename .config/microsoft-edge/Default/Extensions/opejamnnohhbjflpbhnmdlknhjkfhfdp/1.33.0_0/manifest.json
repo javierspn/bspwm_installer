@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon.png"
+      }
+   },
+   "commands": {
+      "toggle-feature-foo": {
+         "description": "Test",
+         "suggested_key": {
+            "default": "Alt+S"
+         }
+      }
+   },
+   "description": "Universal open source web clipper.",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtqQVJpj14vwiasoUyvuaORwpBWFNyc/BkKf3J8J4eUmdN8Begf/RbSwC1Fs3AjuWxPuOpBk09tQ5OSXld6JUKqtBZ5IGMa3StHkT5B90ONzHSvMI+D4zYlhzZZNMWAdygi3mbFfQaazoXEq90tBjvn8mjKcJgbTv2ej/OxJyQ4HakpxB3O3Nk7h8aDDWluJgj61BX/2EQwzpGx6Of65nn7qz6trau6xYNFx9jHmsX3l5NcYfLZuvC51naS8KDs0vAUF+tMlER3jodexLMM+CymIqw0LUygc0+catfPuuIFMGN7PfE3ST//2x8Ezd5lsFjb3R2BntEE6HO6kshVf/KQIDAQAB",
+   "manifest_version": 2,
+   "name": "Web Clipper",
+   "optional_permissions": [ "cookies", "\u003Call_urls>", "webRequest", "webRequestBlocking" ],
+   "permissions": [ "activeTab", "storage", "https://api.clipper.website/*", "https://resource.clipper.website/*", "contextMenus" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.33.0",
+   "web_accessible_resources": [ "tool.html" ]
+}

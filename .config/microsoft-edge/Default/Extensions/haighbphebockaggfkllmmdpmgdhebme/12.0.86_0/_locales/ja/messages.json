@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - アリエクスプレスで価格履歴を追跡する"
+   },
+   "EXTENSION_NAME": {
+      "message": "アリエクスプレス価格トラッカー"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "AliPriceで画像を検索"
+   },
+   "context_menus_google_translate": {
+      "message": "グーグル翻訳"
+   },
+   "context_menus_search_by_image": {
+      "message": "$storeName$で画像で検索",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "$storeName$にキャプチャ",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "AliPriceで画像を検索"
+   },
+   "context_menus_translator": {
+      "message": "翻訳するためにキャプチャする"
+   }
+}

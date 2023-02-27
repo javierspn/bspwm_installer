@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Alíexpress için fiyat izleyiciniz"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - Alíexpress için fiyat takipçisi"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "AliPrice'de Resim Ara"
+   },
+   "context_menus_google_translate": {
+      "message": "Google Çeviri"
+   },
+   "context_menus_search_by_image": {
+      "message": "$storeName$'da görselle ara",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "$storeName$'ya Yakala",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "AliPrice'de Resim Ara"
+   },
+   "context_menus_translator": {
+      "message": "Çevirmek için yakalayın"
+   }
+}

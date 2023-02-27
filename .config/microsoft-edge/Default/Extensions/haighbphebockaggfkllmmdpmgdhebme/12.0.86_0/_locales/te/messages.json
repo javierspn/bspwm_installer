@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Alíexpress కోసం మీ ధర ట్రాకర్"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - Alíexpress కోసం ధర ట్రాకర్"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "అలీప్రైస్‌లో చిత్రాన్ని శోధించండి"
+   },
+   "context_menus_google_translate": {
+      "message": "Google అనువాదం"
+   },
+   "context_menus_search_by_image": {
+      "message": "Image $storeName$ on లో చిత్రం ద్వారా శోధించండి",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "$storeName$ కు సంగ్రహించండి",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "అలీప్రైస్‌లో చిత్రాన్ని శోధించండి"
+   },
+   "context_menus_translator": {
+      "message": "అనువదించడానికి క్యాప్చర్ చేయండి"
+   }
+}

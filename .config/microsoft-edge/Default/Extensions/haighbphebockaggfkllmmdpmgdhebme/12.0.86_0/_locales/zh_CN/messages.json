@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - 追踪电商网站产品价格历史"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice价格追踪器"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "在AliPrice上用图片搜同款"
+   },
+   "context_menus_google_translate": {
+      "message": "谷歌翻译"
+   },
+   "context_menus_search_by_image": {
+      "message": "在$storeName$上以图搜同款",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "截图去$storeName$搜同款",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "通过AliPrice以图搜同款"
+   },
+   "context_menus_translator": {
+      "message": "截图翻译"
+   }
+}

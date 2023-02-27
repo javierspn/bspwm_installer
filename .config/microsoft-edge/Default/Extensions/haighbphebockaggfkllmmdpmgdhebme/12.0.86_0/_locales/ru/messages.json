@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Ваш ценовой трекер для Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - Динамика цен Алиэкспресс"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Найти это изображение на AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Гугл переводчик"
+   },
+   "context_menus_search_by_image": {
+      "message": "Поиск по изображению на $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Захватить в $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Найти это изображение на AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Захват для перевода"
+   }
+}

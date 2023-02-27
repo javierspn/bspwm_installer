@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - ติดตามราคาของคุณสำหรับ Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - ตัวติดตามราคาสำหรับ Alíexpress"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "ค้นหารูปภาพใน AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Google แปลภาษา"
+   },
+   "context_menus_search_by_image": {
+      "message": "ค้นหาตามภาพใน $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "จับภาพไปที่ $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "ค้นหารูปภาพใน AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "จับภาพเพื่อแปล"
+   }
+}

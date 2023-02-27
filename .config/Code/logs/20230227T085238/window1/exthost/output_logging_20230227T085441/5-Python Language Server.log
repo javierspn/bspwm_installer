@@ -1,0 +1,23 @@
+[Info  - 8:54:43 AM] (7951) Pylance language server 2023.2.40 (pyright 085dfbfa) starting
+[Info  - 8:54:43 AM] (7951) Server root directory: /home/javier/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 8:54:43 AM] (7951) Starting service instance "bspwm_installer"
+[Info  - 8:54:43 AM] (7951) Starting service instance ".config"
+[Info  - 8:54:43 AM] (7951) Auto-indent enabled
+[Info  - 8:54:43 AM] (7951) No configuration file found.
+[Info  - 8:54:43 AM] (7951) No pyproject.toml file found.
+[Info  - 8:54:43 AM] (7951) Setting pythonPath for service "bspwm_installer": "/bin/python3"
+[Warn  - 8:54:43 AM] (7951) stubPath /home/javier/Documents/dev/eyecandy/bspwm_installer/typings is not a valid directory.
+[Info  - 8:54:43 AM] (7951) Assuming Python version 3.9
+[Info  - 8:54:43 AM] (7951) Assuming Python platform Linux
+[Info  - 8:54:43 AM] (7951) Searching for source files
+[Info  - 8:54:43 AM] (7951) No source files found.
+[Info  - 8:54:43 AM] (7951) No configuration file found.
+[Info  - 8:54:43 AM] (7951) No pyproject.toml file found.
+[Warn  - 8:54:43 AM] (7951) stubPath /home/javier/.config/typings is not a valid directory.
+[Info  - 8:54:43 AM] (7951) Assuming Python platform Linux
+[Info  - 8:54:43 AM] (7951) Searching for source files
+[Info  - 8:54:44 AM] (7951) No source files found.
+[Info  - 8:54:44 AM] (7951) Background analysis(1) root directory: /home/javier/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 8:54:44 AM] (7951) Background analysis(1) started
+[Info  - 8:54:44 AM] (7951) Background analysis(2) root directory: /home/javier/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 8:54:44 AM] (7951) Background analysis(2) started

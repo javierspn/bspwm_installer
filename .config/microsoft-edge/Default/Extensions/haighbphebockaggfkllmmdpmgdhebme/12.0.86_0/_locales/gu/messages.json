@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Alíexpress માટેનો તમારો ભાવ ટ્રેકર"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - Alíexpress માટે કિંમત ટ્રેકર"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "AliPrice પર છબી શોધો"
+   },
+   "context_menus_google_translate": {
+      "message": "ગૂગલ અનુવાદ"
+   },
+   "context_menus_search_by_image": {
+      "message": "$storeName$ પર છબી દ્વારા શોધો",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "$storeName$ પર કેપ્ચર",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "AliPrice પર છબી શોધો"
+   },
+   "context_menus_translator": {
+      "message": "અનુવાદ કરવા માટે કેપ્ચર કરો"
+   }
+}

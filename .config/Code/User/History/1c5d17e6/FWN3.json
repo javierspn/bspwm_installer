@@ -1,0 +1,22 @@
+{
+    "mssql.connections": [
+        {
+            "server": "192.168.1.134",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "tst"
+        }
+    ],
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "jupyter.interactiveWindowMode": "perFile",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.confirmDragAndDrop": false
+}

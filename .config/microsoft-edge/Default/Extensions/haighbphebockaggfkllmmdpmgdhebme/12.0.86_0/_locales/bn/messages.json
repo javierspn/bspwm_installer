@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Alíexpress এর জন্য আপনার মূল্য ট্র্যাকার"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - Alíexpress এর জন্য মূল্য ট্র্যাকার"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "AliPrice এ চিত্র অনুসন্ধান করুন"
+   },
+   "context_menus_google_translate": {
+      "message": "গুগল অনুবাদ"
+   },
+   "context_menus_search_by_image": {
+      "message": "$storeName$ এ চিত্র দ্বারা অনুসন্ধান করুন",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "$storeName$ ক্যাপচার",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "AliPrice এ চিত্র অনুসন্ধান করুন"
+   },
+   "context_menus_translator": {
+      "message": "অনুবাদ করতে ক্যাপচার করুন"
+   }
+}

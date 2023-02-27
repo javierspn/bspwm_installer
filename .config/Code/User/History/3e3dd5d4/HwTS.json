@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ".config",
+			"path": "../../.."
+		},
+		{
+			"name": "bspwm_installer",
+			"path": "../../../../Documents/dev/eye/bspwm_installer"
+		}
+	],
+	"settings": {}
+}

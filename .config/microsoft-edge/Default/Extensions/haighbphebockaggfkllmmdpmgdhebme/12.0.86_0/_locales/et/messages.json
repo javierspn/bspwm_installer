@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - teie Alíexpressi hinna jälgija"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice – Alíexpressi hinnajälgija"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Search Image on AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Google'i tõlge"
+   },
+   "context_menus_search_by_image": {
+      "message": "Otsige pildi järgi $storeName$s",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Jäädvusta $storeName$sse",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Search Image on AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Pildista tõlkimiseks"
+   }
+}

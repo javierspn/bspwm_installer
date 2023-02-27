@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Penjejak harga anda untuk Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - penjejak harga untuk Alíexpress"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Cari Imej di AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Terjemahan Google"
+   },
+   "context_menus_search_by_image": {
+      "message": "Cari mengikut gambar di $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Tangkap ke $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Cari Imej di AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Tangkap untuk menterjemah"
+   }
+}

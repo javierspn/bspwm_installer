@@ -1,0 +1,548 @@
+2023-02-27 08:52:41.126 [info] Log level: Info
+2023-02-27 08:52:41.126 [info] Validating found git in: "git"
+2023-02-27 08:52:41.126 [info] Using git "2.30.2" from "git"
+2023-02-27 08:53:44.060 [info] > git clone https://github.com/javierspn/bspwm_installer.git /home/javier/Documents/dev/eyecandy/bspwm_installer --progress [490ms]
+2023-02-27 08:53:44.060 [info] Cloning into '/home/javier/Documents/dev/eyecandy/bspwm_installer'...
+warning: You appear to have cloned an empty repository.
+2023-02-27 08:53:53.463 [info] Log level: Info
+2023-02-27 08:53:53.463 [info] Validating found git in: "git"
+2023-02-27 08:53:53.463 [info] Using git "2.30.2" from "git"
+2023-02-27 08:53:53.477 [info] > git rev-parse --show-toplevel [16ms]
+2023-02-27 08:53:53.489 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-02-27 08:53:53.506 [info] Open repository: /home/javier/Documents/dev/eyecandy/bspwm_installer
+2023-02-27 08:53:53.540 [info] > git config --get commit.template [24ms]
+2023-02-27 08:53:53.543 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-02-27 08:53:53.583 [info] > git status -z -uall [20ms]
+2023-02-27 08:53:53.587 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-27 08:53:53.609 [info] > git config --get commit.template [11ms]
+2023-02-27 08:53:53.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2023-02-27 08:53:53.665 [info] > git status -z -uall [10ms]
+2023-02-27 08:53:53.665 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 08:53:54.045 [info] > git fetch [539ms]
+2023-02-27 08:53:54.056 [info] > git config --get commit.template [5ms]
+2023-02-27 08:53:54.056 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-02-27 08:53:54.067 [info] > git status -z -uall [7ms]
+2023-02-27 08:53:54.069 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 08:54:38.747 [info] > git rev-parse --show-toplevel [36ms]
+2023-02-27 08:54:38.747 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:39.440 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-27 08:54:39.440 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.369 [info] Log level: Info
+2023-02-27 08:54:42.369 [info] Validating found git in: "git"
+2023-02-27 08:54:42.369 [info] Using git "2.30.2" from "git"
+2023-02-27 08:54:42.369 [info] > git rev-parse --show-toplevel [35ms]
+2023-02-27 08:54:42.412 [info] > git rev-parse --git-dir --git-common-dir [34ms]
+2023-02-27 08:54:42.444 [info] Open repository: /home/javier/Documents/dev/eyecandy/bspwm_installer
+2023-02-27 08:54:42.541 [info] > git config --get commit.template [24ms]
+2023-02-27 08:54:42.541 [info] > git rev-parse --show-toplevel [66ms]
+2023-02-27 08:54:42.541 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.623 [info] > git rev-parse --show-toplevel [56ms]
+2023-02-27 08:54:42.623 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2023-02-27 08:54:42.673 [info] > git status -z -uall [28ms]
+2023-02-27 08:54:42.675 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2023-02-27 08:54:42.684 [info] > git rev-parse --show-toplevel [53ms]
+2023-02-27 08:54:42.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.707 [info] > git rev-parse --show-toplevel [15ms]
+2023-02-27 08:54:42.707 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.720 [info] > git rev-parse --show-toplevel [7ms]
+2023-02-27 08:54:42.720 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.727 [info] > git config --get commit.template [26ms]
+2023-02-27 08:54:42.729 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-27 08:54:42.729 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.745 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:54:42.759 [info] > git rev-parse --show-toplevel [23ms]
+2023-02-27 08:54:42.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.853 [info] > git status -z -uall [102ms]
+2023-02-27 08:54:42.853 [info] > git rev-parse --show-toplevel [86ms]
+2023-02-27 08:54:42.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.864 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [105ms]
+2023-02-27 08:54:42.939 [info] > git rev-parse --show-toplevel [76ms]
+2023-02-27 08:54:42.940 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.973 [info] > git rev-parse --show-toplevel [21ms]
+2023-02-27 08:54:42.974 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:42.990 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-27 08:54:42.990 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:43.003 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-27 08:54:43.003 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:43.020 [info] > git rev-parse --show-toplevel [9ms]
+2023-02-27 08:54:43.021 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:54:43.023 [info] > git fetch [579ms]
+2023-02-27 08:54:43.057 [info] > git check-ignore -v -z --stdin [17ms]
+2023-02-27 08:54:43.060 [info] > git config --get commit.template [13ms]
+2023-02-27 08:54:43.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:54:43.086 [info] > git status -z -uall [8ms]
+2023-02-27 08:54:43.089 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-27 08:54:51.771 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-27 08:54:51.772 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 08:55:00.120 [info] > git log --oneline --cherry master...master@{upstream} -- [5ms]
+2023-02-27 08:55:00.120 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:55:00.699 [info] > git pull --tags [570ms]
+2023-02-27 08:55:00.699 [info] hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:55:00.707 [info] > git config --get commit.template [1ms]
+2023-02-27 08:55:00.713 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 08:55:00.726 [info] > git status -z -uall [8ms]
+2023-02-27 08:55:00.728 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 08:55:11.063 [info] > git push [9ms]
+2023-02-27 08:55:11.063 [info] error: src refspec refs/heads/master does not match any
+error: failed to push some refs to 'https://github.com/javierspn/bspwm_installer.git'
+2023-02-27 08:55:11.079 [info] > git config --get commit.template [8ms]
+2023-02-27 08:55:11.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 08:55:11.097 [info] > git status -z -uall [11ms]
+2023-02-27 08:55:11.101 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-02-27 08:55:16.608 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2023-02-27 08:55:16.608 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:55:17.045 [info] > git pull --tags [428ms]
+2023-02-27 08:55:17.045 [info] hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:55:17.067 [info] > git config --get commit.template [13ms]
+2023-02-27 08:55:17.069 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 08:55:17.085 [info] > git status -z -uall [8ms]
+2023-02-27 08:55:17.089 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-02-27 08:55:27.291 [info] > git log --oneline --cherry master...master@{upstream} -- [4ms]
+2023-02-27 08:55:27.291 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:55:27.802 [info] > git pull --tags [490ms]
+2023-02-27 08:55:27.802 [info] hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:55:27.814 [info] > git config --get commit.template [5ms]
+2023-02-27 08:55:27.816 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 08:55:27.829 [info] > git status -z -uall [8ms]
+2023-02-27 08:55:27.830 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 08:56:00.668 [info] > git fetch [941ms]
+2023-02-27 08:56:00.679 [info] > git config --get commit.template [5ms]
+2023-02-27 08:56:00.680 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:56:00.692 [info] > git status -z -uall [7ms]
+2023-02-27 08:56:00.694 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 08:56:05.154 [info] > git log --oneline --cherry master...master@{upstream} -- [4ms]
+2023-02-27 08:56:05.154 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:56:05.633 [info] > git pull --tags [474ms]
+2023-02-27 08:56:05.633 [info] hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:56:05.652 [info] > git config --get commit.template [11ms]
+2023-02-27 08:56:05.654 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:56:05.671 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 08:56:05.671 [info] > git status -z -uall [10ms]
+2023-02-27 08:56:54.948 [info] > git config --get commit.template [2ms]
+2023-02-27 08:56:54.953 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 08:56:54.965 [info] > git status -z -uall [6ms]
+2023-02-27 08:56:54.967 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 08:56:57.682 [info] > git push -u origin master [12ms]
+2023-02-27 08:56:57.682 [info] error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/javierspn/bspwm_installer.git'
+2023-02-27 08:56:57.701 [info] > git config --get commit.template [11ms]
+2023-02-27 08:56:57.701 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 08:56:57.717 [info] > git status -z -uall [10ms]
+2023-02-27 08:56:57.719 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 08:57:03.327 [info] > git log --oneline --cherry master...master@{upstream} -- [1ms]
+2023-02-27 08:57:03.327 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:57:03.887 [info] > git pull --tags [553ms]
+2023-02-27 08:57:03.887 [info] Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:57:03.905 [info] > git config --get commit.template [10ms]
+2023-02-27 08:57:03.907 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-02-27 08:57:03.925 [info] > git status -z -uall [10ms]
+2023-02-27 08:57:03.928 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-02-27 08:58:29.968 [info] > git fetch [700ms]
+2023-02-27 08:58:29.968 [info] From https://github.com/javierspn/bspwm_installer
+ * [new branch]      main       -> origin/main
+2023-02-27 08:58:29.984 [info] > git config --get commit.template [10ms]
+2023-02-27 08:58:29.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 08:58:30.005 [info] > git status -z -uall [14ms]
+2023-02-27 08:58:30.005 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 08:58:31.155 [info] > git config --get commit.template [6ms]
+2023-02-27 08:58:31.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:58:31.167 [info] > git status -z -uall [6ms]
+2023-02-27 08:58:31.168 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 08:58:33.203 [info] > git fetch [789ms]
+2023-02-27 08:58:33.220 [info] > git config --get commit.template [9ms]
+2023-02-27 08:58:33.221 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:58:33.241 [info] > git status -z -uall [9ms]
+2023-02-27 08:58:33.245 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-02-27 08:58:36.186 [info] > git config --get commit.template [6ms]
+2023-02-27 08:58:36.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 08:58:36.200 [info] > git status -z -uall [8ms]
+2023-02-27 08:58:36.203 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-27 08:58:43.115 [info] > git log --oneline --cherry master...master@{upstream} -- [1ms]
+2023-02-27 08:58:43.115 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:58:43.618 [info] > git pull --tags [498ms]
+2023-02-27 08:58:43.618 [info] Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:58:43.634 [info] > git config --get commit.template [8ms]
+2023-02-27 08:58:43.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 08:58:43.649 [info] > git status -z -uall [7ms]
+2023-02-27 08:58:43.652 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 08:58:48.866 [info] > git config --get commit.template [17ms]
+2023-02-27 08:58:48.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:58:48.892 [info] > git status -z -uall [13ms]
+2023-02-27 08:58:48.899 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2023-02-27 08:59:07.297 [info] > git push [7ms]
+2023-02-27 08:59:07.298 [info] error: src refspec refs/heads/master does not match any
+error: failed to push some refs to 'https://github.com/javierspn/bspwm_installer.git'
+2023-02-27 08:59:07.318 [info] > git config --get commit.template [10ms]
+2023-02-27 08:59:07.320 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-02-27 08:59:07.338 [info] > git status -z -uall [11ms]
+2023-02-27 08:59:07.340 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 08:59:26.143 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2023-02-27 08:59:26.144 [info] fatal: no such branch: 'master...master'
+2023-02-27 08:59:27.142 [info] > git pull --tags -r [991ms]
+2023-02-27 08:59:27.142 [info] Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+2023-02-27 08:59:27.165 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 08:59:27.175 [info] > git config --get commit.template [17ms]
+2023-02-27 08:59:27.193 [info] > git status -z -uall [11ms]
+2023-02-27 08:59:27.196 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-02-27 08:59:30.248 [info] > git config --get commit.template [2ms]
+2023-02-27 08:59:30.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 08:59:30.303 [info] > git status -z -uall [11ms]
+2023-02-27 08:59:30.311 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2023-02-27 09:00:16.908 [info] > git config --get commit.template [0ms]
+2023-02-27 09:00:16.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 09:00:16.928 [info] > git status -z -uall [7ms]
+2023-02-27 09:00:16.930 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 09:00:25.030 [info] > git config --get commit.template [12ms]
+2023-02-27 09:00:25.035 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-02-27 09:00:25.072 [info] > git status -z -uall [28ms]
+2023-02-27 09:00:25.072 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 09:01:01.967 [info] Log level: Info
+2023-02-27 09:01:01.968 [info] Validating found git in: "git"
+2023-02-27 09:01:01.968 [info] Using git "2.30.2" from "git"
+2023-02-27 09:01:02.032 [info] > git rev-parse --show-toplevel [95ms]
+2023-02-27 09:01:02.032 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.244 [info] > git rev-parse --show-toplevel [198ms]
+2023-02-27 09:01:02.244 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.301 [info] > git rev-parse --show-toplevel [48ms]
+2023-02-27 09:01:02.301 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.358 [info] > git rev-parse --show-toplevel [49ms]
+2023-02-27 09:01:02.358 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.458 [info] > git rev-parse --show-toplevel [88ms]
+2023-02-27 09:01:02.458 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.501 [info] > git rev-parse --show-toplevel [24ms]
+2023-02-27 09:01:02.501 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.528 [info] > git rev-parse --show-toplevel [19ms]
+2023-02-27 09:01:02.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.641 [info] > git rev-parse --show-toplevel [107ms]
+2023-02-27 09:01:02.641 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.674 [info] > git rev-parse --show-toplevel [25ms]
+2023-02-27 09:01:02.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.836 [info] > git rev-parse --show-toplevel [155ms]
+2023-02-27 09:01:02.836 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.872 [info] > git rev-parse --show-toplevel [30ms]
+2023-02-27 09:01:02.872 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.897 [info] > git rev-parse --show-toplevel [18ms]
+2023-02-27 09:01:02.897 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:02.928 [info] > git rev-parse --show-toplevel [25ms]
+2023-02-27 09:01:02.928 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:01:09.652 [info] Log level: Info
+2023-02-27 09:01:09.652 [info] Validating found git in: "git"
+2023-02-27 09:01:09.663 [info] Using git "2.30.2" from "git"
+2023-02-27 09:01:38.561 [info] > git clone https://github.com/javierspn/bspwm_installer.git /home/javier/Documents/dev/eye/bspwm_installer --progress [649ms]
+2023-02-27 09:01:38.561 [info] Cloning into '/home/javier/Documents/dev/eye/bspwm_installer'...
+remote: Enumerating objects: 3, done.        
+remote: Counting objects:  33% (1/3)        remote: Counting objects:  66% (2/3)        remote: Counting objects: 100% (3/3)        remote: Counting objects: 100% (3/3), done.        
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0        
+Receiving objects:  33% (1/3)Receiving objects:  66% (2/3)Receiving objects: 100% (3/3)Receiving objects: 100% (3/3), done.
+2023-02-27 09:01:46.437 [info] > git rev-parse --show-toplevel [35ms]
+2023-02-27 09:01:47.805 [info] Log level: Info
+2023-02-27 09:01:47.806 [info] Validating found git in: "git"
+2023-02-27 09:01:47.833 [info] Using git "2.30.2" from "git"
+2023-02-27 09:01:47.928 [info] > git rev-parse --show-toplevel [82ms]
+2023-02-27 09:01:48.088 [info] > git rev-parse --git-dir --git-common-dir [61ms]
+2023-02-27 09:01:48.161 [info] Open repository: /home/javier/Documents/dev/eye/bspwm_installer
+2023-02-27 09:01:48.224 [info] > git config --get commit.template [19ms]
+2023-02-27 09:01:48.325 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [51ms]
+2023-02-27 09:01:48.354 [info] > git status -z -uall [18ms]
+2023-02-27 09:01:48.360 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2023-02-27 09:01:48.391 [info] > git config --get commit.template [16ms]
+2023-02-27 09:01:48.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2023-02-27 09:01:48.549 [info] > git status -z -uall [36ms]
+2023-02-27 09:01:48.651 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [110ms]
+2023-02-27 09:01:48.816 [info] > git check-ignore -v -z --stdin [2ms]
+2023-02-27 09:01:49.140 [info] > git fetch [980ms]
+2023-02-27 09:01:49.173 [info] > git config --get commit.template [16ms]
+2023-02-27 09:01:49.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2023-02-27 09:01:49.229 [info] > git status -z -uall [22ms]
+2023-02-27 09:01:49.232 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-02-27 09:01:50.445 [info] > git config --get commit.template [8ms]
+2023-02-27 09:01:50.445 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-02-27 09:01:50.465 [info] > git status -z -uall [11ms]
+2023-02-27 09:01:50.467 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 09:02:07.419 [info] > git rev-parse --show-toplevel [58ms]
+2023-02-27 09:02:07.419 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:02:14.013 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-27 09:02:14.013 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:02:29.770 [info] > git log --oneline --cherry main...main@{upstream} -- [3ms]
+2023-02-27 09:02:30.683 [info] > git pull --tags origin main [904ms]
+2023-02-27 09:02:30.684 [info] hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+From https://github.com/javierspn/bspwm_installer
+ * branch            main       -> FETCH_HEAD
+2023-02-27 09:02:30.704 [info] > git config --get commit.template [11ms]
+2023-02-27 09:02:30.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-02-27 09:02:30.728 [info] > git status -z -uall [13ms]
+2023-02-27 09:02:30.728 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 09:02:31.876 [info] > git config --get commit.template [10ms]
+2023-02-27 09:02:31.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-02-27 09:02:31.892 [info] > git status -z -uall [8ms]
+2023-02-27 09:02:31.894 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-02-27 09:02:39.459 [info] > git push origin main:main [804ms]
+2023-02-27 09:02:39.459 [info] Everything up-to-date
+2023-02-27 09:02:39.475 [info] > git config --get commit.template [7ms]
+2023-02-27 09:02:39.476 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-02-27 09:02:39.492 [info] > git status -z -uall [8ms]
+2023-02-27 09:02:39.494 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 09:03:37.967 [info] Log level: Info
+2023-02-27 09:03:37.967 [info] Validating found git in: "git"
+2023-02-27 09:03:37.967 [info] Using git "2.30.2" from "git"
+2023-02-27 09:03:37.978 [info] > git rev-parse --show-toplevel [33ms]
+2023-02-27 09:03:37.978 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.085 [info] > git rev-parse --show-toplevel [100ms]
+2023-02-27 09:03:38.199 [info] > git rev-parse --git-dir --git-common-dir [47ms]
+2023-02-27 09:03:38.231 [info] Open repository: /home/javier/Documents/dev/eye/bspwm_installer
+2023-02-27 09:03:38.306 [info] > git rev-parse --show-toplevel [57ms]
+2023-02-27 09:03:38.306 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.345 [info] > git rev-parse --show-toplevel [33ms]
+2023-02-27 09:03:38.345 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.352 [info] > git config --get commit.template [69ms]
+2023-02-27 09:03:38.372 [info] > git rev-parse --show-toplevel [21ms]
+2023-02-27 09:03:38.372 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.403 [info] > git rev-parse --show-toplevel [25ms]
+2023-02-27 09:03:38.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.416 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-27 09:03:38.417 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.423 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2023-02-27 09:03:38.460 [info] > git status -z -uall [31ms]
+2023-02-27 09:03:38.461 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2023-02-27 09:03:38.483 [info] > git rev-parse --show-toplevel [59ms]
+2023-02-27 09:03:38.483 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.598 [info] > git config --get commit.template [91ms]
+2023-02-27 09:03:38.598 [info] > git rev-parse --show-toplevel [104ms]
+2023-02-27 09:03:38.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-02-27 09:03:38.702 [info] > git rev-parse --show-toplevel [97ms]
+2023-02-27 09:03:38.702 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.820 [info] > git status -z -uall [131ms]
+2023-02-27 09:03:38.820 [info] > git rev-parse --show-toplevel [104ms]
+2023-02-27 09:03:38.820 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.837 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [135ms]
+2023-02-27 09:03:38.895 [info] > git rev-parse --show-toplevel [59ms]
+2023-02-27 09:03:38.898 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.938 [info] > git check-ignore -v -z --stdin [54ms]
+2023-02-27 09:03:38.940 [info] > git rev-parse --show-toplevel [30ms]
+2023-02-27 09:03:38.940 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:38.963 [info] > git rev-parse --show-toplevel [18ms]
+2023-02-27 09:03:38.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:39.284 [info] > git fetch [1054ms]
+2023-02-27 09:03:39.328 [info] > git config --get commit.template [34ms]
+2023-02-27 09:03:39.332 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-02-27 09:03:39.379 [info] > git status -z -uall [32ms]
+2023-02-27 09:03:39.386 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-02-27 09:03:40.736 [info] > git config --get commit.template [0ms]
+2023-02-27 09:03:40.745 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-02-27 09:03:40.763 [info] > git status -z -uall [10ms]
+2023-02-27 09:03:40.763 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 09:03:49.427 [info] Log level: Info
+2023-02-27 09:03:49.427 [info] Validating found git in: "git"
+2023-02-27 09:03:49.427 [info] Using git "2.30.2" from "git"
+2023-02-27 09:03:49.430 [info] > git rev-parse --show-toplevel [26ms]
+2023-02-27 09:03:49.708 [info] > git rev-parse --git-dir --git-common-dir [134ms]
+2023-02-27 09:03:49.760 [info] Open repository: /home/javier/Documents/dev/eye/bspwm_installer
+2023-02-27 09:03:49.900 [info] > git rev-parse --show-toplevel [121ms]
+2023-02-27 09:03:49.900 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:49.941 [info] > git rev-parse --show-toplevel [32ms]
+2023-02-27 09:03:49.941 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:49.946 [info] > git config --get commit.template [71ms]
+2023-02-27 09:03:49.987 [info] > git rev-parse --show-toplevel [41ms]
+2023-02-27 09:03:49.987 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.008 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2023-02-27 09:03:50.054 [info] > git status -z -uall [32ms]
+2023-02-27 09:03:50.056 [info] > git rev-parse --show-toplevel [57ms]
+2023-02-27 09:03:50.057 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.072 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2023-02-27 09:03:50.105 [info] > git rev-parse --show-toplevel [36ms]
+2023-02-27 09:03:50.105 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.199 [info] > git rev-parse --show-toplevel [85ms]
+2023-02-27 09:03:50.199 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.209 [info] > git config --get commit.template [106ms]
+2023-02-27 09:03:50.230 [info] > git rev-parse --show-toplevel [20ms]
+2023-02-27 09:03:50.231 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.304 [info] > git rev-parse --show-toplevel [55ms]
+2023-02-27 09:03:50.304 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.349 [info] > git rev-parse --show-toplevel [34ms]
+2023-02-27 09:03:50.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [60ms]
+2023-02-27 09:03:50.378 [info] > git fetch [619ms]
+2023-02-27 09:03:50.380 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms] (cancelled)
+2023-02-27 09:03:50.416 [info] > git check-ignore -v -z --stdin [69ms]
+2023-02-27 09:03:50.424 [info] > git status -z -uall [54ms] (cancelled)
+2023-02-27 09:03:50.425 [info] > git rev-parse --show-toplevel [63ms]
+2023-02-27 09:03:50.425 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.490 [info] > git rev-parse --show-toplevel [58ms]
+2023-02-27 09:03:50.490 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.502 [info] > git config --get commit.template [97ms]
+2023-02-27 09:03:50.546 [info] > git rev-parse --show-toplevel [44ms]
+2023-02-27 09:03:50.546 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.585 [info] > git rev-parse --show-toplevel [28ms]
+2023-02-27 09:03:50.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:50.596 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2023-02-27 09:03:50.625 [info] > git status -z -uall [11ms]
+2023-02-27 09:03:50.633 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-02-27 09:03:51.833 [info] > git config --get commit.template [2ms]
+2023-02-27 09:03:51.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-02-27 09:03:51.868 [info] > git status -z -uall [18ms]
+2023-02-27 09:03:51.869 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-02-27 09:03:57.647 [info] Log level: Info
+2023-02-27 09:03:57.647 [info] Validating found git in: "git"
+2023-02-27 09:03:57.647 [info] Using git "2.30.2" from "git"
+2023-02-27 09:03:57.690 [info] > git rev-parse --show-toplevel [88ms]
+2023-02-27 09:03:57.690 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:57.909 [info] > git rev-parse --show-toplevel [163ms]
+2023-02-27 09:03:57.991 [info] > git rev-parse --git-dir --git-common-dir [26ms]
+2023-02-27 09:03:58.039 [info] Open repository: /home/javier/Documents/dev/eye/bspwm_installer
+2023-02-27 09:03:58.076 [info] > git rev-parse --show-toplevel [29ms]
+2023-02-27 09:03:58.076 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.140 [info] > git config --get commit.template [70ms]
+2023-02-27 09:03:58.160 [info] > git rev-parse --show-toplevel [76ms]
+2023-02-27 09:03:58.161 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.187 [info] > git rev-parse --show-toplevel [18ms]
+2023-02-27 09:03:58.187 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.198 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2023-02-27 09:03:58.233 [info] > git status -z -uall [23ms]
+2023-02-27 09:03:58.235 [info] > git rev-parse --show-toplevel [39ms]
+2023-02-27 09:03:58.235 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.247 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2023-02-27 09:03:58.265 [info] > git rev-parse --show-toplevel [24ms]
+2023-02-27 09:03:58.267 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.358 [info] > git rev-parse --show-toplevel [83ms]
+2023-02-27 09:03:58.358 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.374 [info] > git config --get commit.template [110ms]
+2023-02-27 09:03:58.523 [info] > git rev-parse --show-toplevel [149ms]
+2023-02-27 09:03:58.523 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.609 [info] > git rev-parse --show-toplevel [50ms]
+2023-02-27 09:03:58.610 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.648 [info] > git check-ignore -v -z --stdin [62ms]
+2023-02-27 09:03:58.651 [info] > git rev-parse --show-toplevel [27ms]
+2023-02-27 09:03:58.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.656 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [58ms]
+2023-02-27 09:03:58.672 [info] > git fetch [635ms]
+2023-02-27 09:03:58.673 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms] (cancelled)
+2023-02-27 09:03:58.708 [info] > git status -z -uall [45ms] (cancelled)
+2023-02-27 09:03:58.709 [info] > git rev-parse --show-toplevel [53ms]
+2023-02-27 09:03:58.709 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.825 [info] > git rev-parse --show-toplevel [108ms]
+2023-02-27 09:03:58.825 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.844 [info] > git config --get commit.template [136ms]
+2023-02-27 09:03:58.900 [info] > git rev-parse --show-toplevel [56ms]
+2023-02-27 09:03:58.900 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:03:58.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-02-27 09:03:58.946 [info] > git status -z -uall [9ms]
+2023-02-27 09:03:58.952 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2023-02-27 09:04:04.582 [info] > git rev-parse --show-toplevel [23ms]
+2023-02-27 09:04:04.584 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:06.130 [info] Log level: Info
+2023-02-27 09:04:06.131 [info] Validating found git in: "git"
+2023-02-27 09:04:06.131 [info] Using git "2.30.2" from "git"
+2023-02-27 09:04:06.145 [info] > git rev-parse --show-toplevel [60ms]
+2023-02-27 09:04:06.323 [info] > git rev-parse --git-dir --git-common-dir [76ms]
+2023-02-27 09:04:06.376 [info] Open repository: /home/javier/Documents/dev/eye/bspwm_installer
+2023-02-27 09:04:06.485 [info] > git config --get commit.template [50ms]
+2023-02-27 09:04:06.485 [info] > git rev-parse --show-toplevel [85ms]
+2023-02-27 09:04:06.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:06.560 [info] > git rev-parse --show-toplevel [67ms]
+2023-02-27 09:04:06.560 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:06.619 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [81ms]
+2023-02-27 09:04:06.668 [info] > git status -z -uall [30ms]
+2023-02-27 09:04:06.672 [info] > git rev-parse --show-toplevel [104ms]
+2023-02-27 09:04:06.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:06.702 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [46ms]
+2023-02-27 09:04:06.824 [info] > git rev-parse --show-toplevel [125ms]
+2023-02-27 09:04:06.824 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:06.855 [info] > git config --get commit.template [117ms]
+2023-02-27 09:04:06.979 [info] > git fetch [604ms]
+2023-02-27 09:04:06.983 [info] > git rev-parse --show-toplevel [152ms]
+2023-02-27 09:04:06.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.074 [info] > git check-ignore -v -z --stdin [96ms]
+2023-02-27 09:04:07.084 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2023-02-27 09:04:07.089 [info] > git rev-parse --show-toplevel [96ms]
+2023-02-27 09:04:07.089 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.111 [info] > git rev-parse --show-toplevel [16ms]
+2023-02-27 09:04:07.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.118 [info] > git config --get commit.template [46ms]
+2023-02-27 09:04:07.163 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2023-02-27 09:04:07.177 [info] > git rev-parse --show-toplevel [59ms]
+2023-02-27 09:04:07.177 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.199 [info] > git status -z -uall [30ms]
+2023-02-27 09:04:07.201 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2023-02-27 09:04:07.220 [info] > git rev-parse --show-toplevel [29ms]
+2023-02-27 09:04:07.220 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.244 [info] > git rev-parse --show-toplevel [18ms]
+2023-02-27 09:04:07.245 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.268 [info] > git rev-parse --show-toplevel [17ms]
+2023-02-27 09:04:07.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.293 [info] > git rev-parse --show-toplevel [19ms]
+2023-02-27 09:04:07.293 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:07.309 [info] > git rev-parse --show-toplevel [7ms]
+2023-02-27 09:04:07.309 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 09:04:08.500 [info] > git config --get commit.template [1ms]
+2023-02-27 09:04:08.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-02-27 09:04:08.525 [info] > git status -z -uall [9ms]
+2023-02-27 09:04:08.528 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-27 09:04:26.841 [info] > git check-ignore -v -z --stdin [8ms]

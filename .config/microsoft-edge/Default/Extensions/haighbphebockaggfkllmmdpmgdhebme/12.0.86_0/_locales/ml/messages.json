@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - അലിഎക്സ്പ്രസ്സിനായുള്ള നിങ്ങളുടെ വില ട്രാക്കർ"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - Alíexpress-നുള്ള വില ട്രാക്കർ"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "അലിപ്രൈസിൽ ചിത്രം തിരയുക"
+   },
+   "context_menus_google_translate": {
+      "message": "Google ട്രാൻസലേറ്റ്"
+   },
+   "context_menus_search_by_image": {
+      "message": "Image $storeName$ on ൽ ഇമേജ് പ്രകാരം തിരയുക",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "$storeName$ ലേക്ക് ക്യാപ്‌ചർ ചെയ്യുക",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "അലിപ്രൈസിൽ ചിത്രം തിരയുക"
+   },
+   "context_menus_translator": {
+      "message": "വിവർത്തനം ചെയ്യാൻ ക്യാപ്ചർ ചെയ്യുക"
+   }
+}

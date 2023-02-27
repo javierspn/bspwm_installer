@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - Vaš pravac cijena za Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - praćenje cijena za Alíexpress"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Potražite sliku na AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Google prevoditelj"
+   },
+   "context_menus_search_by_image": {
+      "message": "Pretražite prema slici na $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Snimite u $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Potražite sliku na AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Snimite za prevođenje"
+   }
+}

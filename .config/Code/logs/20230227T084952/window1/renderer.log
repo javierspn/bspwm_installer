@@ -1,0 +1,40 @@
+2023-02-27 08:49:53.434 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-27 08:49:54.258 [info] Started initializing default profile extensions in extensions installation folder. file:///home/javier/.vscode/extensions
+2023-02-27 08:49:54.869 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/javier/.vscode/extensions
+2023-02-27 08:49:56.868 [info] [perf] Render performance baseline is 27ms
+2023-02-27 08:50:19.525 [info] Settings Sync: Updated current session f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00073FFF827A16B6/b49f526f-91bd-4d7f-968e-0995af29f6fc
+2023-02-27 08:50:41.055 [error] [Extension Host] (node:5026) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-02-27 08:51:24.828 [warning] [ms-toolsai.vscode-jupyter-cell-tags]: View container 'jupyter' does not exist and all views registered to it will be added to 'Explorer'.
+2023-02-27 08:51:27.439 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.settingsSync
+2023-02-27 08:51:28.387 [info] [lifecycle]: Shutdown was prevented (id: veto.settingsSync)
+2023-02-27 08:52:13.560 [error] Could not find category with ID: ms-python.python#pythonDataScienceWelcome: Error: Could not find category with ID: ms-python.python#pythonDataScienceWelcome
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2550:52865
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at n.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2029)
+    at a.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1667)
+    at O.progressStep (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:23692)
+    at O.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:25830)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:24352
+    at Array.forEach (<anonymous>)
+    at O._registerWalkthrough (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:24170)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:22160
+    at async Promise.all (index 1)
+    at async O.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:20084)
+    at async Promise.all (index 0)
+    at async g.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:16936)
+2023-02-27 08:52:25.533 [error] Could not find category with ID: ms-toolsai.jupyter#jupyterWelcome: Error: Could not find category with ID: ms-toolsai.jupyter#jupyterWelcome
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2550:52865
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at n.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2029)
+    at a.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1667)
+    at O.progressStep (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:23692)
+    at O.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:25830)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:24352
+    at Array.forEach (<anonymous>)
+    at O._registerWalkthrough (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:24170)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:22160
+    at async Promise.all (index 0)
+    at async O.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:20084)
+    at async Promise.all (index 0)
+    at async g.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1889:16936)

@@ -1,0 +1,36 @@
+{
+   "EXTENSION_DESCRIPTION": {
+      "message": "AliPrice.com - váš nástroj na sledovanie cien pre Alíexpress"
+   },
+   "EXTENSION_NAME": {
+      "message": "AliPrice - sledovanie cien pre Alíexpress"
+   },
+   "context_menus_aliprice_search_by_image": {
+      "message": "Hľadať obrázok na AliPrice"
+   },
+   "context_menus_google_translate": {
+      "message": "Google Translate"
+   },
+   "context_menus_search_by_image": {
+      "message": "Vyhľadávajte podľa obrázka v obchode $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_by_image_capture": {
+      "message": "Zachytiť $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "context_menus_search_image": {
+      "message": "Hľadať obrázok na AliPrice"
+   },
+   "context_menus_translator": {
+      "message": "Zachytiť a preložiť"
+   }
+}
